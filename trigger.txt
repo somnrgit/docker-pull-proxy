@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+wiznote/wizserver registry.cn-shanghai.aliyuncs.com/20240616/images/wiznote/wizserver
