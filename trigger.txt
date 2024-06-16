@@ -5,3 +5,7 @@ apkdv/siyuan-unlock registry.cn-shanghai.aliyuncs.com/20240616/siyuan-unlock
 nfew/siyuan registry.cn-shanghai.aliyuncs.com/20240616/siyuan-root
 zhanghu870325/anytype-0.40.22 registry.cn-shanghai.aliyuncs.com/20240616/anytype-0.40.22
 paulknulst/affine registry.cn-shanghai.aliyuncs.com/20240616/affine
+outlinewiki/outline registry.cn-shanghai.aliyuncs.com/20240616/outline
+neosmemo/memos registry.cn-shanghai.aliyuncs.com/20240616/memos
+jasminexzzz/blossom registry.cn-shanghai.aliyuncs.com/20240616/blossom
+alpine registry.cn-shanghai.aliyuncs.com/20240616/alpine
