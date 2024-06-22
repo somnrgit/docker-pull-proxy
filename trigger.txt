@@ -1,3 +1,4 @@
+dullage/flatnotes registry.cn-shanghai.aliyuncs.com/20240616/flatnotes
 wiznote/wizserver registry.cn-shanghai.aliyuncs.com/20240616/wizserver
 portainer/portainer registry.cn-shanghai.aliyuncs.com/20240616/portainer
 b3log/siyuan registry.cn-shanghai.aliyuncs.com/20240616/siyuan
